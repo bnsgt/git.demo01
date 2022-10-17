@@ -14,4 +14,4 @@ git cofig --global user.name "Gipsz Jakab"
 
 ---
 
-incline code:`rm -rf *`
+inline code:`rm -rf *`
