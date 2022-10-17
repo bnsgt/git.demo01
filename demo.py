@@ -4,8 +4,14 @@ def main():
     pass
 
 name = input ("Give me your name: ")
-def greeting(name: str):
+def greetname: str):
         print (f'Hello {name}!')
 
+<<<<<<< HEAD
 
 greeting(name)
+=======
+greet(name)
+
+# TODO implement main function
+>>>>>>> refs/remotes/origin/main
