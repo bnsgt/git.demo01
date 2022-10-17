@@ -8,8 +8,7 @@ git cofig --global user.name "Gipsz Jakab"
 
 ## Sub-header
 ### Sub-sub header
-- item1
-- item2
+
 - item 3
 
 ---
