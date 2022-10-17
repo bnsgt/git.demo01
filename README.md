@@ -15,3 +15,11 @@ git cofig --global user.name "Gipsz Jakab"
 ---
 
 inline code:`rm -rf *`
+
+## New Chapter
+```python
+def main ():
+        print("HELLO")
+```
+
+---
