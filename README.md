@@ -6,7 +6,7 @@ git clone <url>
 git cofig --global user.name "Gipsz Jakab"
 ```
 
-##sub-header
+## Sub-header
 ### Sub-sub header
 - item1
 - item2
