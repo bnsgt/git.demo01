@@ -1,3 +1,4 @@
 # This is a simple hello word program
 
-print ("Hello world")
+name = input ("Give me your name: ")
+print(f'Hello {name}!')
