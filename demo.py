@@ -6,4 +6,4 @@ def greetname: str):
 
 greet(name)
 
-# TODO implement main function
+# TODO implement
