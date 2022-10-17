@@ -9,5 +9,10 @@ def greet: str):
 
 greet(name)        
 
+<<<<<<< HEAD
 #TODO something
 #TODO implemennt main function
+=======
+# TODO implement
+# TODO gatret
+>>>>>>> refs/remotes/origin/main
